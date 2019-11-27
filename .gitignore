@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 *.xml
 *.txt
 tmp/*
+=======
+tmp/*
+*.xml
+*.txt
+>>>>>>> 1b116013cc9ecf9cfb5ede5b316b6d03ac0e2519
